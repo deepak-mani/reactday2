@@ -1,8 +1,15 @@
 {
-  "name": "gitHub",
-  "version": "1.0.0",
+  "name": "prabhutrainingcbe",
+  "version": "1.0.1",
   "main": "index.js",
-  "repository": "https://github.com/deepak-mani/react_training.git",
-  "author": "Deepak Mani <deepak.m@skava.com>",
-  "license": "MIT"
+  "repository": "https://GnanaprabhuK@bitbucket.org/GnanaprabhuK/react-training.git",
+  "license": "MIT",
+  "scripts":{
+    "test": "make test",
+    "dev": "make dev"
+  },
+  "dependencies": {
+    "favoritelist": "1.1.0"
+  }
+  
 }

@@ -1,0 +1,8 @@
+{
+    "name":"favoritelist",
+    "version": "1.1.0",
+    "description": "testing purpose",
+    "dependencies": {
+        "express":"latest"
+    }
+}
