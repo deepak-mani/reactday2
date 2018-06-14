@@ -1,5 +1,1 @@
-import add  from './add'
-
-const test : add = () =>{
-    
-}
+import { add } from "./add";

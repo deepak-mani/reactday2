@@ -1,1 +1,0 @@
-export declare function add(firstName:string,secondName:string):string
