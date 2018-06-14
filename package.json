@@ -4,12 +4,15 @@
   "main": "index.js",
   "repository": "https://GnanaprabhuK@bitbucket.org/GnanaprabhuK/react-training.git",
   "license": "MIT",
-  "scripts":{
+  "scripts": {
     "test": "make test",
     "dev": "make dev"
   },
   "dependencies": {
-    "favoritelist": "1.1.0"
+    "favoritelist": "1.1.0",
+    "ts-node": "^6.1.1",
+    "typescript": "^2.9.2",
+    "eslint": "next",
+    "tslint": "next"
   }
-  
 }
